@@ -3,6 +3,6 @@ This repo is a test repo to make a similar interactive map for High Frontier for
 # High Frontier 4 All MapMap
 An interactive map to find celestial objects in High Frontier 4 All game.
 
-You can use it here: https://JaxonCoward.github.io/HighFrontier4AllMap/
+You can use it here: https://JaxonCoward.github.io/
 
 If you want to add new languages, or you have some fixes, please just create a Pull Request for it.

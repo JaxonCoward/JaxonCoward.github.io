@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaxonCoward/HighFrontier4AllMap.git"
+    "url": "git+https://github.com/JaxonCoward.git"
   },
   "author": "JaxonCoward",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JaxonCoward/HighFrontier4AllMap/issues"
+    "url": "https://github.com/JaxonCoward/issues"
   },
-  "homepage": "https://github.com/JaxonCoward/HighFrontier4AllMap#readme",
+  "homepage": "https://github.com/JaxonCoward#readme",
   "dependencies": {
     "@types/jquery": "^2.0.46",
     "@types/knockout": "^3.4.59",

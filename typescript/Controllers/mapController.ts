@@ -63,7 +63,7 @@ module WarOfTheRingMap.Controllers {
 
         readDataFromJson = () => {
             var self = this;
-            $.get(`https://JaxonCoward.github.io/HighFrontier4AllMap/regions_${this.language()}.json`, function (data) {
+            $.get(`https://JaxonCoward.github.io/regions_${this.language()}.json`, function (data) {
                 self.regions(data.map((x) => {
                     return new Models.Region(x);
                 }));
