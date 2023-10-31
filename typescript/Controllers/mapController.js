@@ -21,7 +21,7 @@ var WarOfTheRingMap;
                 };
                 this.readDataFromJson = () => {
                     var self = this;
-                    $.get(`https://sirmartin.github.io/WarOfRingMap/regions_${this.language()}.json`, function (data) {
+                    $.get(`https://JaxonCoward.github.io/HighFrontier4AllMap/regions_${this.language()}.json`, function (data) {
                         self.regions(data.map((x) => {
                             return new WarOfTheRingMap.Models.Region(x);
                         }));

@@ -1,5 +1,5 @@
 {
-  "name": "warofringmap",
+  "name": "HighFrontier4AllMap",
   "version": "1.0.0",
   "description": "An interactive map for the board game War of the Ring to locate the different regions.",
   "main": "typescript/start.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SirMartin/WarOfRingMap.git"
+    "url": "git+https://github.com/JaxonCoward/HighFrontier4AllMap.git"
   },
-  "author": "SirMartin",
+  "author": "JaxonCoward",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SirMartin/WarOfRingMap/issues"
+    "url": "https://github.com/JaxonCoward/HighFrontier4AllMap/issues"
   },
-  "homepage": "https://github.com/SirMartin/WarOfRingMap#readme",
+  "homepage": "https://github.com/JaxonCoward/HighFrontier4AllMap#readme",
   "dependencies": {
     "@types/jquery": "^2.0.46",
     "@types/knockout": "^3.4.59",
